@@ -1,3 +1,4 @@
+
 # Airbnb-istanbul-dataset-analysis
 
 
@@ -30,7 +31,11 @@ This project is a part of Udacity Data Science Nanodegree Program. Datasets are 
 In this project, 3 business questions are addressed. These are:
 -  What are the top 5 expensive and cheap neighbourhoods in Istanbul?
 -  What are the average accommodation price of different room types for all districts of Istanbul?
-- What are the average price of different types of room in the top 5 expensive and cheap neighbourhood of Istanbul?
+-  What are the average price of different types of room in the top 5 expensive and cheap neighbourhood of Istanbul?
+
+## File Descriptions
+
+> **CRISP-DM.ipynb** is main file that shows cross-industry standard process for data mining steps for given bussiness questions
 
 ## Blog
 You can read the story of this repo [here](https://bilginkocak.medium.com/this-makes-you-find-expensive-and-inexpensive-airbnb-locations-in-istanbul-ac21a8edb166)
