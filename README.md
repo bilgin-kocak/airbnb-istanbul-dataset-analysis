@@ -4,16 +4,18 @@
 ## Installation
 
 Download datasets links below.
-data.insideairbnb.com/turkey/marmara/istanbul/2021-02-26/data/listings.csv.gz
-data.insideairbnb.com/turkey/marmara/istanbul/2021-02-26/visualisations/neighbourhoods.geojson
+
+[listing.csv](http://data.insideairbnb.com/turkey/marmara/istanbul/2021-02-26/data/listings.csv.gz)
+
+[neighbourhoods.geojson](http://data.insideairbnb.com/turkey/marmara/istanbul/2021-02-26/visualisations/neighbourhoods.geojson)
+
 This project requires Python 3.x and the following Python libraries installed:
 
 -   [NumPy](http://www.numpy.org/)
 -   [Pandas](http://pandas.pydata.org)
+-   [GeoPandas](https://geopandas.org/)
 -   [matplotlib](http://matplotlib.org/)
--   [scikit-learn](http://scikit-learn.org/stable/)
--   [seaborn](https://seaborn.pydata.org/)
--   [scikit-learn](http://scikit-learn.org/stable/)
+
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
@@ -38,4 +40,3 @@ You can read the story of this repo [here](https://bilginkocak.medium.com/this-m
 
 I would like to thank Udacity for creating a platform to learn and upscale my data science skills.
 https://www.bilginkocak.com/
-
